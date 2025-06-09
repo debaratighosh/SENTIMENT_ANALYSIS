@@ -80,3 +80,8 @@ pip install -r requirements.txt<br>
 • Open the notebook and run all cells:<br>
 jupyter notebook Sentiment_Analysis.ipynb<br>
 • Enter your own sentence in the input prompt at the bottom cell to get sentiment prediction<br>
+
+## 🚀 Sample Prediction:<br>
+
+Enter a sentence: I love it<br>
+Predicted Sentiment: Positive
